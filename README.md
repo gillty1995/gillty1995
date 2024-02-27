@@ -1,4 +1,4 @@
-- Hello, I’m @gillty1995
+- Hello, I’m Gill
 - I make lo-fi jazz and retro hip-hop beats for sync licensing and streaming.
 - I'm currently studying to become a software engineer.
 - I'm always looking to collaborate with like-minded individuals!

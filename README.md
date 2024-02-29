@@ -3,4 +3,4 @@
 - I'm currently studying to become a software engineer.
 - My current software languages are HTML5, CSS3, and Javascript.
 - I'm always looking to collaborate with like-minded individuals!
-- I can be reached through my email address "gooee@mac.com".
+- I can be reached through my email address "gihwork@icloud.com".

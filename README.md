@@ -2,7 +2,7 @@
 <h2 align="center">I'm an aspiring software developer located in St. Louis, MO.</h2>
 <h3 align="center">I'm currently in Sprint 5 of TripleTen's software engineering program.</h3>
 <h3 align="center">I make retro-hip hop and lo-fi beats for streaming and sync licesncing</h3>
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/gill hermelin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gill hermelin" height="30" width="40" /></a>
 <a href="https://instagram.com/igimgillty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="igimgillty" height="30" width="40" /></a>

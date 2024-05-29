@@ -3,6 +3,7 @@
 <h3 align="center">I'm currently in Sprint 9 of TripleTen's software engineering program.</h3>
 <h3 align="center">I make retro-hip hop and lo-fi beats for streaming and sync licesncing.</h3>
 <h3 align="center">Music Teacher for 5+ years.</h3>
+<h3 align="center">I play soccer in my spare time</h3>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/gillty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gill hermelin" height="30" width="40" /></a>

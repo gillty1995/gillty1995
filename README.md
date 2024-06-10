@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gill Hermelin</h1>
 <h2 align="center">I'm an aspiring software developer located in St. Louis, MO.</h2>
-<h3 align="center">I'm currently in Sprint 9 of TripleTen's software engineering program.</h3>
-<h3 align="center">I make retro-hip hop and lo-fi beats for streaming and sync licesncing.</h3>
+<h3 align="center">I'm currently in Sprint 11 of TripleTen's software engineering program.</h3>
+<h3 align="center">I make retro-hip hop and lo-fi beats for streaming and sync licensing.</h3>
 <h3 align="center">Music Teacher for 5+ years.</h3>
 <h3 align="center">I play soccer in my spare time.</h3>
 <h3 align="center">Connect with me:</h3>

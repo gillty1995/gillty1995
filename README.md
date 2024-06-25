@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gill Hermelin</h1>
-<h2 align="center">I'm an aspiring software developer located in St. Louis, MO.</h2>
-<h3 align="center">I'm currently in Sprint 11 of TripleTen's software engineering program.</h3>
+<h2 align="center">I'm an aspiring software engineer located in St. Louis, MO.</h2>
+<h3 align="center">I'm currently in Sprint 12 of TripleTen's software engineering program.</h3>
 <h3 align="center">I make retro-hip hop and lo-fi beats for streaming and sync licensing.</h3>
 <h3 align="center">Music Teacher for 5+ years.</h3>
 <h3 align="center">I play soccer in my spare time.</h3>
@@ -12,6 +12,9 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>

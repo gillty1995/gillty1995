@@ -36,7 +36,7 @@
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/babel/logo/master/babel.png" alt="babel" width="40" height="40"/>
   </a>
- <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+ <a href="https://expressjs.com/" target="_blank" rel="noreferrer" style="display: inline-block; background-color: white; padding: 5px; border-radius: 5px;">
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="40" height="40"/>
 </a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">

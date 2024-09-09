@@ -36,10 +36,10 @@
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/babel/logo/master/babel.png" alt="babel" width="40" height="40"/>
   </a>
-   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Expressjs.png" alt="express" width="40" height="40"/>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_Platform_logo.svg" alt="google cloud" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="google cloud" width="40" height="40"/>
   </a>
 </p>

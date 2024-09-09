@@ -37,12 +37,12 @@
     <img src="https://raw.githubusercontent.com/babel/logo/master/babel.png" alt="babel" width="40" height="40"/>
   </a>
  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="40" height="40" style="display: block; color: white;"/>
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="40" height="40" style="display: block;"/>
 </a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/>
 </a>
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/jestjs/jestjs-icon.svg" alt="jest" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest&logoColor=white" alt="jest" width="120" height="40"/>
 </a>
 </p>

@@ -2,7 +2,7 @@
 <h2 align="center">I'm a junior full-stack software engineer located in St. Louis, MO.</h2>
 <h3 align="center">Completed TripleTen's full-stack software engineering program in 2024.</h3>
 <h3 align="center">I make retro-hip hop and lo-fi beats for streaming and sync licensing.</h3>
-<h3 align="center">Music Teacher for 5+ years.</h3>
+<h3 align="center">Music Teacher for 6+ years.</h3>
 <h3 align="center">I play soccer in my spare time.</h3>
 <h3 align="center">Connect with me:</h3>
 <p align="center">

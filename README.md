@@ -39,7 +39,7 @@
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40" />
   </a>
-  <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="generative ai" width="40" height="40" />
-  </a>
+<a href="https://openai.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/OpenAI_Logo_2023.svg" alt="Generative AI" width="40" height="40" />
+</a>
 </p>

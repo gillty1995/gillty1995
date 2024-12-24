@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gill Hermelin</h1>
 <h2 align="center">I'm a junior full-stack software engineer located in St. Louis, MO.</h2>
-<h3 align="center">I enjoy learning and expanding my skills by building real-world projects with new tech.</h3>
+<h3 align="center">Learning and expanding my skills by building real-world projects with new tech.</h3>
 <h3 align="center">I make retro-hip hop and lo-fi beats for streaming and sync licensing.</h3>
 <h3 align="center">Music Teacher for 6+ years.</h3>
 <h3 align="center">I play soccer in my spare time.</h3>

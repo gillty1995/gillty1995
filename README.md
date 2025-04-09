@@ -17,26 +17,11 @@
   </a>
 </p>
 <h3 align="center">Frameworks:</h3>
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <!-- Other framework icons from skillicons.dev -->
-  <a href="https://skillicons.dev">
-    <!-- Notice that framermotion has been removed from the query parameter -->
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,expressjs,fastapi,vite,jest" alt="Framework Icons" />
+<p align="center">
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,expressjs,fastapi,vite,jest,tailwind,styledcomponents,pytorch" />
   </a>
-  
-  <!-- Your custom Framer Motion SVG logo -->
-  <div>
-    <svg
-      xmlns="http://www.w3.org/2000/svg"
-      viewBox="0 0 100 100"
-      height="50px"
-      width="50px"
-      style="display: block;"
-      aria-label="Framer Motion Logo">
-      <path d="M0 100V0l50 50 50-50v100L75 75l-25 25-25-25z" />
-    </svg>
-  </div>
-</div>
+</p>
 <h3 align="center">Databases:</h3>
 <p align="center">
  <a href="https://skillicons.dev">
@@ -46,6 +31,12 @@
 <h3 align="center">Hosting / Cloud & Infrastructure:</h3>
 <p align="center">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,ec2,nginx,pm2,googlecloud" />
+    <img src="https://skillicons.dev/icons?i=aws,ec2,nginx,googlecloud,ubuntu" />
+  </a>
+</p>
+<h3 align="center">Other Tools & Skills:</h3>
+<p align="center">
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=graphql,genai,jwt,api,git,github,githubactions,figma,postman,vscode,npm,auth0,devops" />
   </a>
 </p>

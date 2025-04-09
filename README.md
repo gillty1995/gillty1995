@@ -25,7 +25,7 @@
 <h3 align="center">Databases:</h3>
 <p align="center">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,nosql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   </a>
 </p>
 <h3 align="center">Hosting / Cloud & Infrastructure:</h3>
@@ -37,6 +37,6 @@
 <h3 align="center">Other Tools & Skills:</h3>
 <p align="center">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=graphql,genai,jwt,api,git,github,githubactions,figma,postman,vscode,npm,auth0,devops" />
+    <img src="https://skillicons.dev/icons?i=graphql,ai,git,github,githubactions,figma,postman,vscode,npm" />
   </a>
 </p>

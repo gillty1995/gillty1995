@@ -22,3 +22,15 @@
     <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,expressjs,fastapi,vite,framermotion,jest" />
   </a>
 </p>
+<h3 align="center">Databases:</h3>
+<p align="center">
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,nosql" />
+  </a>
+</p>
+<h3 align="center">Hosting / Cloud & Infrastructure:</h3>
+<p align="center">
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,ec2,nginx,pm2,googlecloud" />
+  </a>
+</p>

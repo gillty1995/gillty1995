@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/gillty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gill hermelin" height="30" width="40" /></a>
 <a href="https://instagram.com/igimgillty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="igimgillty" height="30" width="40" /></a>
- <a href="https://gillhermelin.com" target="blank"><img align="center" src="https://unpkg.com/ionicons@5.5.2/dist/svg/globe-outline.svg" alt="personal website" height="30" width="40" /></a>
+ <a href="https://gillhermelin.com" target="blank"><img align="center" src="https://api.iconify.design/ion:globe-outline.svg?color=%232196F3" alt="personal website" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages:</h3>

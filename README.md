@@ -11,33 +11,18 @@
  <a href="https://gillhermelin.com" target="blank"><img align="center" src="https://api.iconify.design/ion:globe-outline.svg?color=%232196F3" alt="personal website" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages:</h3>
-<p align="center">
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,graphql" />
-  </a>
-</p>
-<h3 align="center">Frameworks:</h3>
-<p align="center">
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,expressjs,fastapi,vite,jest,tailwind,styledcomponents,pytorch" />
-  </a>
-</p>
-<h3 align="center">Databases:</h3>
-<p align="center">
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-  </a>
-</p>
-<h3 align="center">Hosting / Cloud & Infrastructure:</h3>
-<p align="center">
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,nginx,googlecloud,ubuntu" />
-  </a>
-</p>
-<h3 align="center">Other Tools & Skills:</h3>
-<p align="center">
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=graphql,ai,git,github,githubactions,figma,postman,vscode,npm" />
-  </a>
-</p>
+###Current Favorite Stack  
+
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?logo=trpc&logoColor=white)  
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?logo=reactquery&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
+
+###Deployment & Infra  
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)  
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  

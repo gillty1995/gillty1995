@@ -11,7 +11,7 @@
  <a href="https://gillhermelin.com" target="blank"><img align="center" src="https://api.iconify.design/ion:globe-outline.svg?color=%232196F3" alt="personal website" height="30" width="40" /></a>
 </p>
 
-###Current Favorite Stack  
+<h3 align="center" text="bold">Current Favorite Stack</h3>
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  

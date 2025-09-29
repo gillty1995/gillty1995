@@ -11,8 +11,8 @@
  <a href="https://gillhermelin.com" target="blank"><img align="center" src="https://api.iconify.design/ion:globe-outline.svg?color=%232196F3" alt="personal website" height="30" width="40" /></a>
 </p>
 
-<h3 align="center" text="bold">Current Favorite Stack</h3>
-<div align="center">
+<h3 align="center" text="bold underline">Current Favorite Stack</h3>
+<p align="center">
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
 ![tRPC](https://img.shields.io/badge/tRPC-2596BE?logo=trpc&logoColor=white)  
@@ -20,11 +20,11 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
-</div>
+</p>
 
-<h3 align="center" text="bold" size="40px">Deployment & Infra</h3>
-<div align="center">
+<h3 align="center" text="bold underline" size="40px">Deployment & Infra</h3>
+<p align="center">
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)  
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-</div>
+</p>

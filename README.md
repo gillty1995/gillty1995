@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gill Hermelin</h1>
 <h2 align="center">I'm a full-stack software engineer located in St. Louis, MO.</h2>
-<h5 align="center">Learning and expanding my skills by building real-world projects with new tech.</h5>
-<h5 align="center">I make retro-hip hop and lo-fi beats for streaming and sync licensing.</h5>
-<h5 align="center">Music Teacher for 7+ years.</h5>
-<h5 align="center">I play soccer in my spare time. Ask me about my favorite club!</h5>
-<h3 align="center">Connect with me:</h3>
+<h4 align="center">Learning and expanding my skills by building real-world projects with new tech.</h4>
+<h4 align="center">I make retro-hip hop and lo-fi beats for streaming and sync licensing.</h4>
+<h4 align="center">Music Teacher for 7+ years.</h4>
+<h4 align="center">I play soccer in my spare time. Ask me about my favorite club!</h4>
+<h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/gillty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gill hermelin" height="30" width="40" /></a>
 <a href="https://instagram.com/igimgillty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="igimgillty" height="30" width="40" /></a>

@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gill Hermelin</h1>
-<h4 align="center">I’m a full-stack software engineer based in St. Louis, MO. I spend most of my time building with Next.js, delivering systems that focus on solid architecture and good database design.</h2>
+<h3 align="center">I’m a full-stack software engineer based in St. Louis, MO.</h3>
+<h4 align="center">I spend most of my time building with Next.js, delivering systems that focus on solid architecture and good database design.</h4>
 
 <h4 align="center">Outside of tech, I make retro hip-hop and lo-fi beats for streaming + sync licensing. I’ve been a music teacher for 8+ years, and I play soccer in my spare time.</h2> 
 <h2 align="center">Connect with me:</h2>

@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gill Hermelin</h1>
-<h2 align="center">I'm a full-stack software engineer located in St. Louis, MO.</h2>
-<h4 align="center">Expanding my skills by building real-world projects with new tech.</h4>
-<h4 align="center">I make retro-hip hop and lo-fi beats for streaming and sync licensing.</h4>
-<h4 align="center">Music Teacher for 8+ years.</h4>
-<h4 align="center">I play soccer in my spare time. Ask me about my favorite club!</h4>
+I’m a full-stack software engineer based in St. Louis, MO. I spend most of my time building with Next.js, delivering systems that hold up as they grow. I think solid architecture, efficient APIs, good database design, and deployments that scale go a long way.
+
+Outside of tech, I make retro hip-hop and lo-fi beats for streaming + sync licensing. I’ve been a music teacher for 8+ years, and I play soccer in my spare time.
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/gillty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gill hermelin" height="30" width="40" /></a>

@@ -6,9 +6,19 @@
 
 <h2 align="center">Connect with me:</h2>
 
-<div align="center">
-<a href="https://www.linkedin.com/in/gillty/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"></a>&emsp;<a href="https://instagram.com/igimgillty"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"></a>&emsp;<a href="https://gillhermelin.com"><img src="https://api.iconify.design/ion:globe-outline.svg?color=%232196F3" alt="Website" height="30" width="40"></a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gillty/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="30" width="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/igimgillty" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="30" width="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://gillhermelin.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/googlechrome/2196F3" alt="Website" height="30" width="30" />
+  </a>
+</p>
 
 <h3 align="center"><strong>Current Favorite Stack:</strong></h3>
 

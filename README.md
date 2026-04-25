@@ -6,7 +6,11 @@
 
 <h2 align="center">Connect with me:</h2>
 
-<p align="center"><a href="https://www.linkedin.com/in/gillty/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gill Hermelin LinkedIn" height="30" width="40" /></a><img width="16" /><a href="https://instagram.com/igimgillty" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="igimgillty Instagram" height="30" width="40" /></a><img width="16" /><a href="https://gillhermelin.com" target="_blank"><img src="https://api.iconify.design/ion:globe-outline.svg?color=%232196F3" alt="Personal website" height="30" width="40" /></a></p>
+<p align="center">
+
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />](https://www.linkedin.com/in/gillty/) &nbsp;&nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />](https://instagram.com/igimgillty) &nbsp;&nbsp;&nbsp; [<img src="https://api.iconify.design/ion:globe-outline.svg?color=%232196F3" alt="Website" height="30" width="40" />](https://gillhermelin.com)
+
+</p>
 
 <h3 align="center"><strong>Current Favorite Stack:</strong></h3>
 

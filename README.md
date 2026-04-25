@@ -7,7 +7,15 @@
 <h2 align="center">Connect with me:</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gillty/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gill Hermelin LinkedIn" height="30" width="40" /></a><a href="https://instagram.com/igimgillty" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="igimgillty Instagram" height="30" width="40" /></a><a href="https://gillhermelin.com" target="_blank"><img src="https://api.iconify.design/ion:globe-outline.svg?color=%232196F3" alt="Personal website" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/gillty/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Gill%20Hermelin-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/igimgillty" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@igimgillty-E4405F?logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://gillhermelin.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-gillhermelin.com-2196F3?logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
 </p>
 
 <h3 align="center"><strong>Current Favorite Stack:</strong></h3>

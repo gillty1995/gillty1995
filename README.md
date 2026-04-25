@@ -6,25 +6,13 @@
 
 <h2 align="center">Connect with me:</h2>
 
-<table align="center" border="0">
-  <tr>
-    <td align="center" width="60">
-      <a href="https://www.linkedin.com/in/gillty/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-      </a>
-    </td>
-    <td align="center" width="60">
-      <a href="https://instagram.com/igimgillty" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-      </a>
-    </td>
-    <td align="center" width="60">
-      <a href="https://gillhermelin.com" target="_blank">
-        <img src="https://api.iconify.design/ion:globe-outline.svg?color=%232196F3" alt="Website" height="30" width="40" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gillty/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/igimgillty" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://gillhermelin.com" target="_blank"><img src="https://api.iconify.design/ion:globe-outline.svg?color=%232196F3" alt="Website" height="30" width="40" /></a>
+</p>
 
 <h3 align="center"><strong>Current Favorite Stack:</strong></h3>
 

@@ -6,52 +6,45 @@
 
 <h2 align="center">Connect with me:</h2>
 
-<div align="center">
-  <p>
-    <a href="https://www.linkedin.com/in/gillty/" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gill Hermelin LinkedIn" height="30" width="40" />
-    </a>
-  </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gillty/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gill Hermelin LinkedIn" height="30" width="40" />
+  </a>
+  <br />
+  <a href="https://instagram.com/igimgillty" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="igimgillty Instagram" height="30" width="40" />
+  </a>
+  <br />
+  <a href="https://gillhermelin.com" target="_blank">
+    <img src="https://api.iconify.design/ion:globe-outline.svg?color=%232196F3" alt="Personal website" height="30" width="40" />
+  </a>
+</p>
 
-  <p>
-    <a href="https://instagram.com/igimgillty" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="igimgillty Instagram" height="30" width="40" />
-    </a>
-  </p>
-
-  <p>
-    <a href="https://gillhermelin.com" target="_blank">
-      <img src="https://api.iconify.design/ion:globe-outline.svg?color=%232196F3" alt="Personal website" height="30" width="40" />
-    </a>
-  </p>
-</div>
-
-<h3 align="center"><strong>Current Favorite Stack:</strong></h3>
+<h3 align="center"><strong>Core Stack:</strong></h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/tRPC-2596BE?logo=trpc&logoColor=white" />
-  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?logo=reactquery&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/shadcn/ui-000000?logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?logo=reactquery&logoColor=white" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/tRPC-2596BE?logo=trpc&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 </p>
 
 <h3 align="center"><strong>Deployment & Infra:</strong></h3>

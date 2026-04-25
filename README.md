@@ -6,19 +6,17 @@
 
 <h2 align="center">Connect with me:</h2>
 
-<table align="center" border="0">
+<table align="center" role="presentation">
   <tr>
-    <td align="center" width="60">
+    <td align="center">
       <a href="https://www.linkedin.com/in/gillty/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
       </a>
-    </td>
-    <td align="center" width="60">
+      &nbsp;&nbsp;&nbsp;
       <a href="https://instagram.com/igimgillty" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
       </a>
-    </td>
-    <td align="center" width="60">
+      &nbsp;&nbsp;&nbsp;
       <a href="https://gillhermelin.com" target="_blank">
         <img src="https://api.iconify.design/ion:globe-outline.svg?color=%232196F3" alt="Website" height="30" width="40" />
       </a>
@@ -42,21 +40,4 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
-</p>
-
-<h3 align="center"><strong>Deployment & Infra:</strong></h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudFront-FF9900?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/PM2-2B037A?logo=pm2&logoColor=white" />
 </p>

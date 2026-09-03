@@ -8,6 +8,7 @@ Outside of tech, I make retro hip-hop and lo-fi beats for streaming and sync lic
 
 You can find more of my work on my [portfolio](https://gillhermelin.com), connect with me on [LinkedIn](https://www.linkedin.com/in/gillty/), or follow me on [Instagram](https://instagram.com/igimgillty).
 
+
 <p>
   <img src="https://img.shields.io/badge/Current%20favorite%20stack%3A-18181b?style=flat&labelColor=18181b&color=18181b" />
   <img src="https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white" />

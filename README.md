@@ -8,6 +8,7 @@ Outside of tech, I make retro hip-hop and lo-fi beats for streaming + sync licen
 
 You can find more of my work on my [portfolio](https://gillhermelin.com), connect with me on [LinkedIn](https://www.linkedin.com/in/gillty/), or follow me on [Instagram](https://instagram.com/igimgillty).
 
+<h2>
 <h3 style="display:inline;">Favorite stack:</h3>
 <img src="https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
@@ -16,3 +17,4 @@ You can find more of my work on my [portfolio](https://gillhermelin.com), connec
 <img src="https://img.shields.io/badge/tRPC-2596BE?logo=trpc&logoColor=white" />
 <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
+</h2>

@@ -40,5 +40,4 @@
   <img src="https://img.shields.io/badge/tRPC-2596BE?logo=trpc&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white" />
 </p>

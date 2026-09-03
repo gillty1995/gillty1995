@@ -8,17 +8,11 @@ Outside of tech, I make retro hip-hop and lo-fi beats for streaming + sync licen
 
 You can find more of my work on my [portfolio](https://gillhermelin.com), connect with me on [LinkedIn](https://www.linkedin.com/in/gillty/), or follow me on [Instagram](https://instagram.com/igimgillty).
 
-<table>
-  <tr>
-    <td><h3>Favorite stack:</h3></td>
-    <td>
-      <img src="https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/shadcn/ui-000000?logo=shadcnui&logoColor=white" />
-      <img src="https://img.shields.io/badge/tRPC-2596BE?logo=trpc&logoColor=white" />
-      <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<h3 style="display:inline;">Favorite stack:</h3>
+<img src="https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/shadcn/ui-000000?logo=shadcnui&logoColor=white" />
+<img src="https://img.shields.io/badge/tRPC-2596BE?logo=trpc&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />

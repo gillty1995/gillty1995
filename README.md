@@ -4,7 +4,7 @@ I'm Gill, a full-stack software engineer based in St. Louis, MO.
 
 I'm a big fan of building with Next.js, focusing on solid architecture and database design.
 
-Outside of tech, I make retro hip-hop and lo-fi beats for streaming and sync licensing. I'm also a music teacher for over 8+ years, and I play soccer in my spare time.
+Outside of tech, I make retro hip-hop and lo-fi beats for streaming and sync licensing. I'm also a music teacher for over 8+ years, and I like to play soccer in my spare time.
 
 You can find more of my work on my [portfolio](https://gillhermelin.com), connect with me on [LinkedIn](https://www.linkedin.com/in/gillty/), or follow me on [Instagram](https://instagram.com/igimgillty).
 
